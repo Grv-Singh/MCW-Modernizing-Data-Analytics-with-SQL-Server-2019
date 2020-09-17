@@ -32,13 +32,13 @@ $DEBUG kubectl cp tpcxbb_1gb.bak master-0:/var/opt/mssql/data -c mssql-server -n
 popd
 
 echo Configuring sample database...
-# WSL ex: "/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/130/Tools/Binn/SQLCMD.EXE"
+WSL ex: "/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/130/Tools/Binn/SQLCMD.EXE"
 $DEBUG sqlcmd -S $SQL_MASTER_INSTANCE -Usa -P $SQL_MASTER_SA_PASSWORD -i "bootstrap-sample-db.sql" -o "bootstrap.out" -I -b || (echo $ERROR_MESSAGE && exit 2)
 
 for table in web_clickstreams inventory
     do
     echo Exporting $table data...
-    # WSL ex: "/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/130/Tools/Binn/bcp.exe"
+    WSL ex: "/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/130/Tools/Binn/bcp.exe"
     $DEBUG bcp sales.dbo.$table out "$table.csv" -S $SQL_MASTER_INSTANCE -Usa -P $SQL_MASTER_SA_PASSWORD -c -t, -o "$table.out" -e "$table.err" || (echo $ERROR_MESSAGE && exit 3)
 done
 
