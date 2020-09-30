@@ -26,3 +26,5 @@ Common Scenarios :
 Omni-Channel Strategy :
 
 ![](https://raw.githubusercontent.com/microsoft/MCW-Modernizing-Data-Analytics-with-SQL-Server-2019/master/Whiteboard%20design%20session/media/omni-channel-strategy.png)
+
+![](https://raw.githubusercontent.com/microsoft/MCW-Modernizing-Data-Analytics-with-SQL-Server-2019/master/Whiteboard%20design%20session/media/omni-channel.png)
