@@ -6,6 +6,8 @@ Wide World Importers (WWI) is a traditional brick and mortar business with a lon
 
 Now, WWI is trying to cope with difficulties in combining these disparate data sources in varying formats into a single location where they can analyze the data in near real-time, joining related information where needed. They also want to be able to leverage AI to help their business grow and cut down maintenance costs. They would like to have all of these capabilities rolled into a single system, while minimizing code changes across their domain.
 
+Solution :
+
 ![](https://raw.githubusercontent.com/microsoft/MCW-Modernizing-Data-Analytics-with-SQL-Server-2019/master/Media/preferred-solution.png)
 
 Aug 2020
