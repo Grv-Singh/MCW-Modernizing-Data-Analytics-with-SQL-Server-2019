@@ -25,6 +25,10 @@ Common Scenarios :
 
 ![](https://raw.githubusercontent.com/microsoft/MCW-Modernizing-Data-Analytics-with-SQL-Server-2019/master/Whiteboard%20design%20session/media/infographic-for-common-scenarios.png)
 
+Data Ingestion :
+
+![](https://raw.githubusercontent.com/microsoft/MCW-Modernizing-Data-Analytics-with-SQL-Server-2019/master/Whiteboard%20design%20session/media/sql-server-2019-data-lake.png)
+
 Omni-Channel Strategy :
 
 ![](https://raw.githubusercontent.com/microsoft/MCW-Modernizing-Data-Analytics-with-SQL-Server-2019/master/Whiteboard%20design%20session/media/omni-channel-strategy.png)
