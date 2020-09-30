@@ -17,7 +17,7 @@ for %%F in (curl.exe) do (
 )
 
 pushd "%tmp%"
-md %TMP_DIR_NAME% >NUL
+REM md %TMP_DIR_NAME% >NUL
 cd %TMP_DIR_NAME%
 
 REM Create HDFS directories
