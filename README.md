@@ -19,3 +19,6 @@ Aug 2020
 - SQL Server Management Studio
 - SQL Server 2019 Big Data Clusters (BDC)
 
+Common Scenarios :
+
+![](https://raw.githubusercontent.com/microsoft/MCW-Modernizing-Data-Analytics-with-SQL-Server-2019/master/Whiteboard%20design%20session/media/infographic-for-common-scenarios.png)
