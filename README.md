@@ -47,3 +47,5 @@ Aug - Sep 2020
 ### References
 
 <a href="https://www.youtube.com/channel/UC_BLf95QgWpwlbSq-ZKLMwA" target="_blank">Youtube - SQL Server</a>
+
+<a href="https://github.com/microsoft/MCW-Modernizing-Data-Analytics-with-SQL-Server-2019" target="_blank">Microsoft Cloud Workshop</a>
