@@ -35,11 +35,11 @@ Aug - Sep 2020
 
 ![](https://raw.githubusercontent.com/microsoft/MCW-Modernizing-Data-Analytics-with-SQL-Server-2019/master/Whiteboard%20design%20session/media/omni-channel.png)
 
-### Proof of Work
+## Proof of Work
 
-## Uploading WWI_Datasets :
+### Uploading WWI_Datasets :
 
 ![](https://raw.githubusercontent.com/Grv-Singh/Practicum-Digital-Modernizing-Data-Analytics-with-SQL-Server-Azure-and-Alteryx/master/Media/Capture.PNG)
 
-## Querying Dataset :
+### Querying Dataset :
 ![](https://raw.githubusercontent.com/Grv-Singh/Practicum-Digital-Modernizing-Data-Analytics-with-SQL-Server-Azure-and-Alteryx/master/Media/Screenshot%202020-10-02%20001625.jpg)
