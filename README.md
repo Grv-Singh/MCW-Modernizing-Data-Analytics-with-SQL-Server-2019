@@ -10,6 +10,13 @@ Now, WWI is trying to cope with difficulties in combining these disparate data s
 
 ![](https://raw.githubusercontent.com/microsoft/MCW-Modernizing-Data-Analytics-with-SQL-Server-2019/master/Media/preferred-solution.png)
 
+## Uploading WWI_Datasets :
+
+![](https://raw.githubusercontent.com/Grv-Singh/Practicum-Digital-Modernizing-Data-Analytics-with-SQL-Server-Azure-and-Alteryx/master/Media/Capture.PNG)
+
+## Querying Dataset :
+![](https://raw.githubusercontent.com/Grv-Singh/Practicum-Digital-Modernizing-Data-Analytics-with-SQL-Server-Azure-and-Alteryx/master/Media/Screenshot%202020-10-02%20001625.jpg)
+
 Aug - Sep 2020
 
 ## Azure services and related products
